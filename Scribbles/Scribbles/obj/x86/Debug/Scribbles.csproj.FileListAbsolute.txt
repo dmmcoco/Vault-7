@@ -1,0 +1,2 @@
+C:\Users\grape\Vault7\Scribbles_src\Scribbles\bin\Debug\Scribbles.exe.config
+C:\Users\grape\Vault7\Scribbles_src\Scribbles\obj\x86\Debug\Scribbles.csproj.ResolveComReference.cache
