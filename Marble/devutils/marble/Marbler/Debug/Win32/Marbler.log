@@ -1,0 +1,880 @@
+﻿  MBL_FORLOOP_XOR4.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_xor4.cpp(13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_xor4.cpp(39): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_xor4.cpp(47): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_xor4.cpp(66): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_xor4.cpp(85): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_FORLOOP_XOR3.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_xor3.cpp(14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_xor3.cpp(40): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_xor3.cpp(48): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_xor3.cpp(67): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_xor3.cpp(86): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_FORLOOP_XOR2.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_xor2.cpp(10): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_xor2.cpp(23): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_xor2.cpp(32): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_xor2.cpp(49): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_xor2.cpp(65): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_FORLOOP_XOR1.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_xor1.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_xor1.cpp(25): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_xor1.cpp(34): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_xor1.cpp(51): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_xor1.cpp(67): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_FORLOOP_RXOR4.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_rxor4.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_rxor4.cpp(60): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_rxor4.cpp(80): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_FORLOOP_RXOR3.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_rxor3.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_rxor3.cpp(57): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_rxor3.cpp(74): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_FORLOOP_RXOR2.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_rxor2.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_rxor2.cpp(28): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_rxor2.cpp(39): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_rxor2.cpp(57): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_rxor2.cpp(74): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_FORLOOP_RXOR1.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_rxor1.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_rxor1.cpp(28): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_rxor1.cpp(39): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_rxor1.cpp(60): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_rxor1.cpp(80): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_FORLOOP_RBUMP8.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_rbump8.cpp(10): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_rbump8.cpp(54): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_rbump8.cpp(71): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_FORLOOP_RBUMP7.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_rbump7.cpp(10): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_rbump7.cpp(54): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_rbump7.cpp(71): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_FORLOOP_RBUMP6.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_rbump6.cpp(10): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_rbump6.cpp(25): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_rbump6.cpp(36): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_rbump6.cpp(54): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_rbump6.cpp(71): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_FORLOOP_RBUMP5.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_rbump5.cpp(10): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_rbump5.cpp(25): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_rbump5.cpp(36): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_rbump5.cpp(54): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_rbump5.cpp(71): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_FORLOOP_RBUMP4.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_rbump4.cpp(10): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_rbump4.cpp(54): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_rbump4.cpp(71): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_FORLOOP_RBUMP3.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_rbump3.cpp(10): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_rbump3.cpp(54): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_rbump3.cpp(71): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_FORLOOP_RBUMP2.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_rbump2.cpp(10): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_rbump2.cpp(25): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_rbump2.cpp(36): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_rbump2.cpp(54): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_rbump2.cpp(71): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_FORLOOP_RBUMP1.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_rbump1.cpp(10): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_rbump1.cpp(25): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_rbump1.cpp(36): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_rbump1.cpp(54): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_rbump1.cpp(71): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_FORLOOP_FUNC_XOR6.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_xor6.cpp(13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_xor6.cpp(39): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_xor6.cpp(47): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_xor6.cpp(65): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_xor6.cpp(83): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_FORLOOP_FUNC_XOR5.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_xor5.cpp(13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_xor5.cpp(39): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_xor5.cpp(47): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_xor5.cpp(65): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_xor5.cpp(83): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_FORLOOP_FUNC_XOR4.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_xor4.cpp(13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_xor4.cpp(39): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_xor4.cpp(47): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_xor4.cpp(65): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_xor4.cpp(83): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_FORLOOP_FUNC_XOR3.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_xor3.cpp(13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_xor3.cpp(39): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_xor3.cpp(47): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_xor3.cpp(65): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_xor3.cpp(83): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  Generating Code...
+  Compiling...
+  MBL_FORLOOP_FUNC_XOR2.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_xor2.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_xor2.cpp(25): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_xor2.cpp(34): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_xor2.cpp(50): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_xor2.cpp(65): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_FORLOOP_FUNC_XOR1.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_xor1.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_xor1.cpp(25): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_xor1.cpp(34): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_xor1.cpp(50): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_xor1.cpp(65): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_FORLOOP_FUNC_RXOR4.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_rxor4.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_rxor4.cpp(55): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_rxor4.cpp(70): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_FORLOOP_FUNC_RXOR3.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_rxor3.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_rxor3.cpp(55): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_rxor3.cpp(70): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_FORLOOP_FUNC_RXOR2.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_rxor2.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_rxor2.cpp(28): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_rxor2.cpp(39): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_rxor2.cpp(55): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_rxor2.cpp(70): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_FORLOOP_FUNC_RXOR1.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_rxor1.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_rxor1.cpp(28): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_rxor1.cpp(39): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_rxor1.cpp(55): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_rxor1.cpp(70): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_FORLOOP_FUNC_RBUMP8.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_rbump8.cpp(10): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_rbump8.cpp(52): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_rbump8.cpp(67): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_FORLOOP_FUNC_RBUMP7.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_rbump7.cpp(10): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_rbump7.cpp(52): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_rbump7.cpp(67): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_FORLOOP_FUNC_RBUMP6.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_rbump6.cpp(10): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_rbump6.cpp(25): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_rbump6.cpp(36): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_rbump6.cpp(52): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_rbump6.cpp(67): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_FORLOOP_FUNC_RBUMP5.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_rbump5.cpp(10): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_rbump5.cpp(25): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_rbump5.cpp(36): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_rbump5.cpp(53): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_rbump5.cpp(68): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_FORLOOP_FUNC_RBUMP4.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_rbump4.cpp(10): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_rbump4.cpp(52): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_rbump4.cpp(67): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_FORLOOP_FUNC_RBUMP3.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_rbump3.cpp(10): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_rbump3.cpp(52): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_rbump3.cpp(67): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_FORLOOP_FUNC_RBUMP2.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_rbump2.cpp(10): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_rbump2.cpp(25): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_rbump2.cpp(36): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_rbump2.cpp(52): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_rbump2.cpp(67): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_FORLOOP_FUNC_RBUMP1.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_rbump1.cpp(10): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_rbump1.cpp(25): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_rbump1.cpp(36): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_rbump1.cpp(53): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_rbump1.cpp(68): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_FORLOOP_FUNC_BUMP9.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_bump9.cpp(14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_bump9.cpp(39): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_bump9.cpp(48): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_bump9.cpp(65): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_bump9.cpp(81): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_FORLOOP_FUNC_BUMP8.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_bump8.cpp(13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_bump8.cpp(38): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_bump8.cpp(47): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_bump8.cpp(64): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_bump8.cpp(80): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_FORLOOP_FUNC_BUMP7.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_bump7.cpp(13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_bump7.cpp(38): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_bump7.cpp(47): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_bump7.cpp(64): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_bump7.cpp(80): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_FORLOOP_FUNC_BUMP6.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_bump6.cpp(13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_bump6.cpp(38): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_bump6.cpp(47): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_bump6.cpp(64): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_bump6.cpp(80): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_FORLOOP_FUNC_BUMP5.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_bump5.cpp(14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_bump5.cpp(39): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_bump5.cpp(48): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_bump5.cpp(66): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_bump5.cpp(82): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_FORLOOP_FUNC_BUMP4.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_bump4.cpp(10): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_bump4.cpp(23): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_bump4.cpp(32): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_bump4.cpp(48): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_bump4.cpp(63): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  Generating Code...
+  Compiling...
+  MBL_FORLOOP_FUNC_BUMP3.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_bump3.cpp(10): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_bump3.cpp(23): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_bump3.cpp(32): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_bump3.cpp(48): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_bump3.cpp(63): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_FORLOOP_FUNC_BUMP2.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_bump2.cpp(10): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_bump2.cpp(23): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_bump2.cpp(32): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_bump2.cpp(48): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_bump2.cpp(63): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_FORLOOP_FUNC_BUMP12.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_bump12.cpp(13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_bump12.cpp(38): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_bump12.cpp(47): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_bump12.cpp(64): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_bump12.cpp(80): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_FORLOOP_FUNC_BUMP11.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_bump11.cpp(13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_bump11.cpp(38): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_bump11.cpp(47): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_bump11.cpp(64): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_bump11.cpp(80): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_FORLOOP_FUNC_BUMP10.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_bump10.cpp(13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_bump10.cpp(38): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_bump10.cpp(47): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_bump10.cpp(64): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_bump10.cpp(80): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_FORLOOP_FUNC_BUMP1.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_bump1.cpp(10): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_bump1.cpp(23): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_bump1.cpp(32): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_bump1.cpp(49): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_func_bump1.cpp(64): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_FORLOOP_BUMP9.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_bump9.cpp(14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_bump9.cpp(39): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_bump9.cpp(48): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_bump9.cpp(66): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_bump9.cpp(83): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_FORLOOP_BUMP8.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_bump8.cpp(13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_bump8.cpp(38): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_bump8.cpp(47): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_bump8.cpp(65): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_bump8.cpp(82): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_FORLOOP_BUMP7.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_bump7.cpp(13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_bump7.cpp(38): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_bump7.cpp(47): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_bump7.cpp(65): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_bump7.cpp(82): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_FORLOOP_BUMP6.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_bump6.cpp(13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_bump6.cpp(38): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_bump6.cpp(47): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_bump6.cpp(65): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_bump6.cpp(82): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_FORLOOP_BUMP5.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_bump5.cpp(14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_bump5.cpp(39): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_bump5.cpp(48): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_bump5.cpp(66): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_bump5.cpp(83): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_FORLOOP_BUMP4.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_bump4.cpp(10): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_bump4.cpp(23): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_bump4.cpp(32): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_bump4.cpp(49): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_bump4.cpp(65): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_FORLOOP_BUMP3.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_bump3.cpp(10): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_bump3.cpp(23): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_bump3.cpp(32): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_bump3.cpp(49): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_bump3.cpp(65): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_FORLOOP_BUMP2.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_bump2.cpp(10): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_bump2.cpp(23): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_bump2.cpp(32): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_bump2.cpp(49): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_bump2.cpp(65): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_FORLOOP_BUMP12.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_bump12.cpp(13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_bump12.cpp(38): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_bump12.cpp(47): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_bump12.cpp(65): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_bump12.cpp(82): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_FORLOOP_BUMP11.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_bump11.cpp(13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_bump11.cpp(38): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_bump11.cpp(47): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_bump11.cpp(65): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_bump11.cpp(82): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_FORLOOP_BUMP10.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_bump10.cpp(13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_bump10.cpp(38): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_bump10.cpp(47): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_bump10.cpp(65): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_bump10.cpp(82): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_FORLOOP_BUMP1.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_bump1.cpp(10): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_bump1.cpp(23): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_bump1.cpp(32): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_bump1.cpp(49): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_forloop_bump1.cpp(65): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_CLASS_XOR9.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_xor9.cpp(14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_xor9.cpp(40): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_xor9.cpp(49): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_xor9.cpp(66): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_xor9.cpp(82): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_CLASS_XOR8.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_xor8.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_xor8.cpp(25): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_xor8.cpp(34): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_xor8.cpp(51): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_xor8.cpp(67): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  Generating Code...
+  Compiling...
+  MBL_CLASS_XOR7.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_xor7.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_xor7.cpp(25): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_xor7.cpp(34): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_xor7.cpp(51): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_xor7.cpp(67): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_CLASS_XOR6.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_xor6.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_xor6.cpp(25): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_xor6.cpp(34): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_xor6.cpp(51): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_xor6.cpp(67): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_CLASS_XOR5.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_xor5.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_xor5.cpp(25): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_xor5.cpp(34): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_xor5.cpp(51): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_xor5.cpp(67): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_CLASS_XOR4.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_xor4.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_xor4.cpp(25): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_xor4.cpp(34): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_xor4.cpp(50): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_xor4.cpp(65): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_CLASS_XOR3.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_xor3.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_xor3.cpp(25): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_xor3.cpp(34): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_xor3.cpp(50): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_xor3.cpp(65): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_CLASS_XOR2.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_xor2.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_xor2.cpp(25): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_xor2.cpp(34): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_xor2.cpp(50): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_xor2.cpp(65): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_CLASS_XOR12.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_xor12.cpp(14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_xor12.cpp(40): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_xor12.cpp(49): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_xor12.cpp(66): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_xor12.cpp(82): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_CLASS_XOR11.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_xor11.cpp(14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_xor11.cpp(39): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_xor11.cpp(48): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_xor11.cpp(65): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_xor11.cpp(81): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_CLASS_XOR10.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_xor10.cpp(14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_xor10.cpp(40): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_xor10.cpp(49): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_xor10.cpp(66): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_xor10.cpp(82): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_CLASS_XOR1.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_xor1.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_xor1.cpp(25): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_xor1.cpp(34): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_xor1.cpp(50): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_xor1.cpp(65): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_CLASS_RXOR9.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rxor9.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rxor9.cpp(54): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rxor9.cpp(69): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_CLASS_RXOR8.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rxor8.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rxor8.cpp(27): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rxor8.cpp(38): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rxor8.cpp(55): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rxor8.cpp(71): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_CLASS_RXOR7.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rxor7.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rxor7.cpp(27): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rxor7.cpp(38): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rxor7.cpp(55): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rxor7.cpp(71): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_CLASS_RXOR6.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rxor6.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rxor6.cpp(27): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rxor6.cpp(38): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rxor6.cpp(55): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rxor6.cpp(71): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_CLASS_RXOR5.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rxor5.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rxor5.cpp(27): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rxor5.cpp(38): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rxor5.cpp(55): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rxor5.cpp(71): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_CLASS_RXOR4.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rxor4.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rxor4.cpp(27): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rxor4.cpp(38): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rxor4.cpp(54): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rxor4.cpp(69): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_CLASS_RXOR3.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rxor3.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rxor3.cpp(27): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rxor3.cpp(38): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rxor3.cpp(54): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rxor3.cpp(69): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_CLASS_RXOR2.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rxor2.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rxor2.cpp(27): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rxor2.cpp(38): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rxor2.cpp(54): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rxor2.cpp(69): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_CLASS_RXOR12.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rxor12.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rxor12.cpp(54): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rxor12.cpp(69): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_CLASS_RXOR11.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rxor11.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rxor11.cpp(54): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rxor11.cpp(69): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  Generating Code...
+  Compiling...
+  MBL_CLASS_RXOR10.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rxor10.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rxor10.cpp(54): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rxor10.cpp(69): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_CLASS_RXOR1.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rxor1.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rxor1.cpp(27): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rxor1.cpp(38): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rxor1.cpp(54): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rxor1.cpp(69): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_CLASS_RBUMP9.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rbump9.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rbump9.cpp(27): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rbump9.cpp(38): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rbump9.cpp(54): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rbump9.cpp(69): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_CLASS_RBUMP8.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rbump8.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rbump8.cpp(55): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rbump8.cpp(71): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_CLASS_RBUMP7.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rbump7.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rbump7.cpp(55): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rbump7.cpp(71): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_CLASS_RBUMP6.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rbump6.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rbump6.cpp(27): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rbump6.cpp(38): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rbump6.cpp(55): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rbump6.cpp(71): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_CLASS_RBUMP5.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rbump5.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rbump5.cpp(27): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rbump5.cpp(38): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rbump5.cpp(55): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rbump5.cpp(71): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_CLASS_RBUMP4.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rbump4.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rbump4.cpp(54): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rbump4.cpp(69): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_CLASS_RBUMP3.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rbump3.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rbump3.cpp(54): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rbump3.cpp(69): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_CLASS_RBUMP2.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rbump2.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rbump2.cpp(27): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rbump2.cpp(38): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rbump2.cpp(54): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rbump2.cpp(69): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_CLASS_RBUMP12.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rbump12.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rbump12.cpp(27): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rbump12.cpp(38): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rbump12.cpp(54): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rbump12.cpp(69): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_CLASS_RBUMP11.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rbump11.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rbump11.cpp(27): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rbump11.cpp(38): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rbump11.cpp(54): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rbump11.cpp(69): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_CLASS_RBUMP10.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rbump10.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rbump10.cpp(27): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rbump10.cpp(38): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rbump10.cpp(54): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rbump10.cpp(69): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_CLASS_RBUMP1.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rbump1.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rbump1.cpp(27): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rbump1.cpp(38): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rbump1.cpp(54): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_rbump1.cpp(69): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_CLASS_BUMP9.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_bump9.cpp(14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_bump9.cpp(41): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_bump9.cpp(51): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_bump9.cpp(68): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_bump9.cpp(84): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_CLASS_BUMP8.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_bump8.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_bump8.cpp(26): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_bump8.cpp(36): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_bump8.cpp(53): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_bump8.cpp(69): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_CLASS_BUMP7.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_bump7.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_bump7.cpp(26): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_bump7.cpp(36): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_bump7.cpp(53): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_bump7.cpp(69): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_CLASS_BUMP6.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_bump6.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_bump6.cpp(26): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_bump6.cpp(36): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_bump6.cpp(53): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_bump6.cpp(69): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_CLASS_BUMP5.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_bump5.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_bump5.cpp(26): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_bump5.cpp(36): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_bump5.cpp(53): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_bump5.cpp(69): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_CLASS_BUMP4.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_bump4.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_bump4.cpp(26): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_bump4.cpp(36): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_bump4.cpp(52): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_bump4.cpp(67): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  Generating Code...
+  Compiling...
+  MBL_CLASS_BUMP3.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_bump3.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_bump3.cpp(26): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_bump3.cpp(36): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_bump3.cpp(52): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_bump3.cpp(67): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_CLASS_BUMP2.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_bump2.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_bump2.cpp(26): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_bump2.cpp(36): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_bump2.cpp(52): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_bump2.cpp(67): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_CLASS_BUMP12.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_bump12.cpp(14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_bump12.cpp(41): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_bump12.cpp(51): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_bump12.cpp(68): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_bump12.cpp(85): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_CLASS_BUMP11.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_bump11.cpp(14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_bump11.cpp(41): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_bump11.cpp(51): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_bump11.cpp(68): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_bump11.cpp(84): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_CLASS_BUMP10.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_bump10.cpp(14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_bump10.cpp(41): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_bump10.cpp(51): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_bump10.cpp(68): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_bump10.cpp(84): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_CLASS_BUMP1.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_bump1.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_bump1.cpp(26): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_bump1.cpp(36): warning C4018: '<': signed/unsigned mismatch
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_bump1.cpp(52): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mbl_class_bump1.cpp(67): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  Mibster.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\mibster.cpp(41): warning C4192: automatically excluding 'ISequentialStream' while importing type library 'msxml6.dll'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mibster.cpp(41): warning C4192: automatically excluding '_FILETIME' while importing type library 'msxml6.dll'
+c:\users\grape\vault7\marble\devutils\marble\marbler\mibster.cpp(48): fatal error C1083: Cannot open include file: 'Misc\FileTyping\MISCTextFileTyper_ENC.h': No such file or directory
+  IScramble.cpp
+c:\users\grape\vault7\marble\devutils\marble\marbler\iscramble.cpp(31): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\grape\vault7\marble\devutils\marble\marbler\iscramble.cpp(65): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  MBL_CLASS_XOR9D.cpp
+  MBL_CLASS_XOR8D.cpp
+  MBL_CLASS_XOR7D.cpp
+  MBL_CLASS_XOR6D.cpp
+  MBL_CLASS_XOR5D.cpp
+  MBL_CLASS_XOR4D.cpp
+  MBL_CLASS_XOR3D.cpp
+  MBL_CLASS_XOR2D.cpp
+  MBL_CLASS_XOR1D.cpp
+  MBL_CLASS_XOR12D.cpp
+  MBL_CLASS_XOR11D.cpp
+  MBL_CLASS_XOR10D.cpp
+  Generating Code...
+  Compiling...
+  MBL_CLASS_RXOR9D.cpp
+  MBL_CLASS_RXOR8D.cpp
+  MBL_CLASS_RXOR7D.cpp
+  MBL_CLASS_RXOR6D.cpp
+  MBL_CLASS_RXOR5D.cpp
+  MBL_CLASS_RXOR4D.cpp
+  MBL_CLASS_RXOR3D.cpp
+  MBL_CLASS_RXOR2D.cpp
+  MBL_CLASS_RXOR1D.cpp
+  MBL_CLASS_RXOR12D.cpp
+  MBL_CLASS_RXOR11D.cpp
+  MBL_CLASS_RXOR10D.cpp
+  MBL_CLASS_RBUMP9D.cpp
+  MBL_CLASS_RBUMP8D.cpp
+  MBL_CLASS_RBUMP7D.cpp
+  MBL_CLASS_RBUMP6D.cpp
+  MBL_CLASS_RBUMP5D.cpp
+  MBL_CLASS_RBUMP4D.cpp
+  MBL_CLASS_RBUMP3D.cpp
+  MBL_CLASS_RBUMP2D.cpp
+  Generating Code...
+  Compiling...
+  MBL_CLASS_RBUMP1D.cpp
+  MBL_CLASS_RBUMP12D.cpp
+  MBL_CLASS_RBUMP11D.cpp
+  MBL_CLASS_RBUMP10D.cpp
+  MBL_CLASS_BUMP9D.cpp
+  MBL_CLASS_BUMP8D.cpp
+  MBL_CLASS_BUMP7D.cpp
+  MBL_CLASS_BUMP6D.cpp
+  MBL_CLASS_BUMP5D.cpp
+  MBL_CLASS_BUMP4D.cpp
+  MBL_CLASS_BUMP3D.cpp
+  MBL_CLASS_BUMP2D.cpp
+  MBL_CLASS_BUMP1D.cpp
+  MBL_CLASS_BUMP12D.cpp
+  MBL_CLASS_BUMP11D.cpp
+  MBL_CLASS_BUMP10D.cpp
+  Generating Code...
